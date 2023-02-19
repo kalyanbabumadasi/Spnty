@@ -1,6 +1,30 @@
-.App{
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+*{
+    padding: 0;
+    margin: 0;
+  background-color: #0F1626;
+   
+}
+.matter{
+    color:#F5F5F5;
+    padding: 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.high{
+    color:#AB9874;
+    margin-bottom: 20px;
+}
+.center{
+    display: grid;
+    place-items: center;
+} 
+  
+
+.main{
+    height:500px;
+    
+}
+.brand_name{
+    font-size:80px;
+    color:#AB9874;
+    font-family:cursive;
 }
